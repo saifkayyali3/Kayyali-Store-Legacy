@@ -1,0 +1,18 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables (The actual 'running' programs)
+*.exe
+*.out
+*.app
+
+# IDE Specific (If you used Code::Blocks, Dev-C++, or Visual Studio)
+.vscode/
+.vs/
+*.layout
+*.depend
+
+# Debugging data
+*.pdb
+*.ilk

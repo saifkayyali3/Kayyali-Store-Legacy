@@ -8,8 +8,8 @@ void main_menu() {
 	cout << "4- Carrot 0.75 JD\t5- Cucumber 0.70 JD\t6- Strawberry 0.10 JD" << endl;
 	cout << "7- Banana 0.20 JD\t8- Potato 1.00 JD\t9- Tomato 0.10 JD" << endl;
 	cout << "10- Broccoli 1.50 JD\t11- Eggplant 0.40 JD\t12- Mushroom 0.50" << endl;
-	cout << "                                 13- Exit" << endl;
-}
+	cout << "                                 13- See Total and Exit" << endl;
+}													
 
 
 int main()
@@ -26,7 +26,7 @@ int main()
 		if (choice == 13) {
 			cout << total <<" JD" << endl;
 			break;
-		}
+		}	
 		switch (choice) {
 		case 12:
 			total += 0.50;
@@ -69,6 +69,8 @@ int main()
 
 		}
 	}
+	system("pause"); 
+    return 0;
 }
 
 

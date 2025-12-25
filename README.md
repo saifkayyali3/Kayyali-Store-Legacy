@@ -15,7 +15,7 @@ To run this project, you need a C++ compiler (like `g++`).
 
 ### 1. Clone the repository and enter:
 ```bash
-   git clone [https://github.com/saifkayyali3/Kayyali-Store-Legacy.git](https://github.com/saifkayyali3/Kayyali-Store-Legacy.git)
+   git clone https://github.com/saifkayyali3/Kayyali-Store-Legacy.git
    cd Kayyali-Store-Legacy
 ```
 ### 2. Compile the Source code

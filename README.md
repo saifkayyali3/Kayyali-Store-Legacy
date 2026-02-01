@@ -1,6 +1,6 @@
-# Kayyali Family Fruits and Veggies Store
+# The Kayyali Family Fruits and Veggies Store - Legacy Repo
 ## The Story
-This was my first "real-world" application, built when I was 11 years old. I wanted to create a digital solution for our family fruit and vegetable business to replace manual price calculations.
+This was my first real-world application, built when I was about 11 years old. I wanted to create a digital solution for our family fruit and vegetable business to replace manual price calculations.
 
 ## Technical Highlights
 Even as a young developer, I focused on:
@@ -32,4 +32,4 @@ g++ Kayyalis-Store.cpp -o KayyalisStore
 This project is licensed under the MIT License – see the **[LICENSE](LICENSE)** file for details.
 
 ## Author
-### - Saif Kayyali
+ **Saif Kayyali**

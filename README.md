@@ -1,6 +1,6 @@
 # The Kayyali Family Fruits and Veggies Store - Legacy Repo
 ## The Story
-This was my first real-world application, built when I was about 11 years old. I wanted to create a digital solution for our family fruit and vegetable business to replace manual price calculations.
+This was my first real-world application, built when I was about 11 years old. I wanted to create a digital solution for a family fruit and vegetable business to replace manual price calculations as a project of mine for the "course" I took in beginner C++ programming.
 
 ## Technical Highlights
 Even as a young developer, I focused on:
@@ -11,7 +11,7 @@ Even as a young developer, I focused on:
 This project taught me the fundamentals of input/output (`iostream`) and how code can solve practical daily problems. It laid the foundation for my current work in Web Development and API integration.
 
 ## How to Run
-To run this project, you need a C++ compiler (like `g++`).
+To run this project, you need a C++ compiler (like `g++` or `gcc`).
 
 ### 1. Clone the repository and enter:
 ```bash
